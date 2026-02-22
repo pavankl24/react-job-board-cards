@@ -3,6 +3,7 @@ import Card from './Components/Card'
 import User from './Components/Card'
 
 
+
 const App = () => {
   const jobOpenings = [
     {
